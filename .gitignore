@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Environment Variables - VERY IMPORTANT
+.env
+*.key
+
+# Output Data Files
+*.csv
+*.json
+videos_*.csv
+videos_*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+```
