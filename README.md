@@ -54,7 +54,7 @@ This tool automates the collection of subscriber counts, view metrics, video sta
 
 1. **Clone this repository:**
 ```bash
-   git clone https://github.com/adenikinju-nicholas/youtube-analytics-scraper.git
+   git clone https://github.com/adenicholas-dev/youtube-analytics-scraper.git
 ```
 
 2. **Navigate to project directory:**
@@ -290,10 +290,11 @@ This tool uses the official YouTube Data API v3 and complies with YouTube's Term
 - 📧 Email: adenikinjunicholas@gmail.com
 - 💼 Portfolio: [View My Work](your-canva-portfolio-link)
 - 🔗 LinkedIn: https://www.linkedin.com/in/adenikinju-nicholas-b1b9ba72/
-- 💻 GitHub: [@adenicholas-dev](https://github.com/adenikinju-nicholas)
+- 💻 GitHub: [@adenicholas-dev](https://github.com/adenicholas-dev)
 
 ---
 
 ⭐ **If you find this project useful, please consider giving it a star!**
+
 
 *Built with ❤️ by Nicholas | Last Updated: January 2026*
